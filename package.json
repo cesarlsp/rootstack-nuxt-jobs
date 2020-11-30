@@ -1,0 +1,30 @@
+{
+  "name": "rootsFront",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/proxy": "^2.0.1",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "axios": "^0.21.0",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^3.6.5",
+    "crypto-js": "^4.0.0",
+    "node-sass": "^5.0.0",
+    "nuxt": "^2.14.6",
+    "nuxt-vuex-localstorage": "^1.2.7",
+    "sass-loader": "^8.0.2",
+    "sass-resources-loader": "^2.0.3",
+    "vue-toastification": "^1.7.8",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
